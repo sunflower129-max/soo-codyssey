@@ -1,2 +1,2 @@
-# soo-codyssey
-github 와 codyssey를 연동하기 위해 만든 Repository입니다.
+주제선정
+5세 유아가 엄마의 심부름을 완수하는 과정을 보여주기
